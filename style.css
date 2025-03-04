@@ -1,0 +1,13 @@
+table {
+    border: 2px dotted rgb(26, 7, 110);
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+th, td {
+    border: 2px dotted rgb(9, 9, 9);
+}
+
+table, th, td {
+    background-color: #030755;
+}
